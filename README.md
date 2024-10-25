@@ -11,7 +11,7 @@
 <details open>
 <summary><h2>👨‍💻 MÓDULO 1 👨‍💻</h2></summary>
 
-### 1. ANÁLISIS DE VENTAS
+### 1. ![ANÁLISIS DE VENTAS](https://github.com/Miguel-A-Barbosa/Talento-Tech/blob/master/README.md)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 Trabajo enfocado en el análisis de ventas por medio de Excel, permitiendo filtrar en base a diferentes categorías. Cuenta con un conversor de Euros a Pesos Colombianos en tiempo real y con un análisis textual automatizado por medio de fórmulas:
